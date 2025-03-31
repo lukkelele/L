@@ -1,0 +1,18 @@
+{
+    "name": "L-lang",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "llvm-vs-code-extensions.vscode-clangd",
+                "xaver.clang-format",
+                "twxs.cmake",
+                "josetr.cmake-language-support-vscode",
+                "zchrissirhcz.cmake-highlight",
+                "daohong-emilio.yash"
+            ]
+        }
+    }
+}
