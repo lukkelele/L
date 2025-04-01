@@ -1,0 +1,3 @@
+[submodule "louise"]
+	path = louise
+	url = git@github.com:lukkelele/louise.git
