@@ -1,0 +1,6 @@
+*.html  linguist-detectable=false
+*.bat   linguist-detectable=false
+*.json  text eol=lf
+
+*.cmake linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
